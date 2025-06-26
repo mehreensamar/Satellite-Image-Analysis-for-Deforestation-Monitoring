@@ -1,0 +1,4 @@
+IMAGE_SIZE = (128, 128)
+BATCH_SIZE = 32
+EPOCHS = 20
+DATA_PATH = "data/"
